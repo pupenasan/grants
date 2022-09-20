@@ -2,9 +2,13 @@
 
 Відкриті коли:
 
+- Посібник для [FTTE](FTTE_GuideForApplicants.md) (до 15 жовтня)
+
 https://smart4all.fundingbox.com/
 
 https://smart4all-project.eu/opencalls-apply-now/
+
+
 
 # Про платформу
 

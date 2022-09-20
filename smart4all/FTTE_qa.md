@@ -4,6 +4,8 @@ Frequently Asked Questions (FAQs) SMART4ALL Third Open Call for Focus Technology
 
 [Оригінальний документ](https://s3.amazonaws.com/fundingbox-sites/gear%2F1657788543443-SMART4ALL_3rd+FTTE_FAQs.pdf)
 
+[Керівництво для заявників](FTTE_GuideForApplicants.md)
+
 ## 1  Що таке FTTE?
 
 Інструмент фінансування цілеспрямованих експериментів з передачі технологій (**FTTE** Focused Technology Transfer Experiments), який зосереджується на одній із чотирьох визначених вертикалей (оцифрований транспорт, оцифроване сільське господарство, оцифроване навколишнє середовище та оцифроване будь-що), дасть можливість сформувати синергію, прискорити проекти, орієнтовані на продукт, і запропонує керівництво для досягнення успіху комерціалізації. Він матиме короткострокову тривалість (9 місяців) і складатиметься з транскордонних експериментів із застосуванням Pathfinder (PAE Pathfinder Application Experiments) між двома різними організаціями з двох різних прийнятних країн (відповідно до критеріїв прийнятності, викладених у розділі 3 Посібника для заявників). У рамках цих типів експериментів одна сторона передає партнеру-одержувачу певну технологію обладнання (HW) або програмного забезпечення (SW), щоб робити придатним вдосконалений продукт або процеси. 
@@ -258,19 +260,7 @@ SMART4ALL зосереджується на CLEC (low-energy computing technolog
 
 ## 22  Який тип підтримки буде доступний для підготовки заявки? 
 
-The Guide for Applicants is the main reference document. It provides detailed information about the requirements of the evaluation and selection process.
-
-If you still have any doubts regarding our Open Call process, feel free to get in touch with us:
-
-●    For questions on the Open Call requirements, ask your question in the [Helpdesk ](https://spaces.fundingbox.com/c/smart4all-1)space of SMART4ALL Community. For technical questions, please visit the SMART4ALL [Helpdesk.](https://helpdesk.smart4all-project.eu/)
-
-●    View the recorded webinars and training courses [here. ](https://smart4all-project.eu/opencalls-apply-now/)There will be additional webinars organised which will be advertised on the main [project website ](https://smart4all-project.eu/)and via our social media channels.
-
-●    Send us an email to the following address: [helpdesk@smart4all-project.eu](mailto:helpdesk@smart4all-project.eu)
-
-●    Visit the [Frequently Asked Questions ](https://s3.amazonaws.com/fundingbox-sites/gear%2F1582629305588-FAQs_SMART4ALL.pdf)(FAQs). You can find the FAQs in your local language [here.](https://faq.smart4all-project.eu/index.php/Main_Page)
-
-Довідник для вступників (Guide for Applicants) є основним довідковим документом. Він містить детальну інформацію про вимоги до процесу оцінювання та відбору.
+[Довідник для заявників](FTTE_GuideForApplicants.md) (Guide for Applicants) є основним довідковим документом. Він містить детальну інформацію про вимоги до процесу оцінювання та відбору.
 
 Якщо у вас все ще є будь-які сумніви щодо нашого процесу Open Call, не соромтеся зв’язатися з нами:
 
