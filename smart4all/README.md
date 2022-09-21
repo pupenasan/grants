@@ -1,14 +1,16 @@
-# smart4all
+# SMART4ALL
 
-Відкриті коли:
+![img](media/clip_image002.jpg)
 
-- Посібник для [FTTE](FTTE_GuideForApplicants.md) (до 15 жовтня)
+# Відкриті грантові пропозиції Call
+
+- Цілеспрямовані експерименти з передачі технологій (**FTTE** Focused Technology Transfer Experiments ) дадуть можливість сформувати синергію, прискорити проекти, орієнтовані на продукт, і запропонують керівництво для успішної комерціалізації (**до 15 жовтня 2022**). Для ознайомлення з даною пропозицією рекомендую почитати [посібник для FTTE](FTTE_GuideForApplicants.md) українською мовою.
+
+# Корисні посилання
 
 https://smart4all.fundingbox.com/
 
 https://smart4all-project.eu/opencalls-apply-now/
-
-
 
 # Про платформу
 
