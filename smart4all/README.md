@@ -8,9 +8,9 @@
 
 # Корисні посилання
 
-https://smart4all.fundingbox.com/
+<https://smart4all.fundingbox.com/>
 
-https://smart4all-project.eu/opencalls-apply-now/
+<https://smart4all-project.eu/opencalls-apply-now/>
 
 # Про платформу
 
@@ -43,7 +43,7 @@ Nikolaos Voros - University of Peloponnese SMART4ALL Project Coordinato
 - Впровадити інноваційні CLEC CPS та технології IoT у життя чутливих соціальних груп
 - Підтримати політику Європейської Комісії щодо цифрових навичок та робочих місць
 
-##  An Extensive Network of DIHs (Розгалужена мережа DIH)
+##  Розгалужена мережа DIH (An Extensive Network of DIHs)
 
 Розгалужена мережа центрів цифрових інновацій для прискорення розвитку технологій та бізнесу в Південній, Східній та Центральній Європі
 
