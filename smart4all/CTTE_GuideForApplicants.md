@@ -1,6 +1,8 @@
+[На головну](../README.md)
+
 # Посібник для заявників (Guide for Applicants - GfA)
 
-**SMART4ALL Cross-Domain Technology Transfer Experiments (CTTE)**
+**SMART4ALL Cross-Domain Technology Transfer Experiments (CTTE)** - Експерименти міждоменної передачі технологій
 
 Кінцевий термін подання:  **17 січня 2023 до 17:00 CET**
 
@@ -49,7 +51,7 @@ SMART4ALL представляє нову парадигму для виявле
 
 2) Цілеспрямовані експерименти з передачі технологій (**FTTE** Focused Technology Transfer Experiments ) дадуть можливість сформувати синергію, прискорити проекти, орієнтовані на продукт, і запропонують керівництво для успішної комерціалізації.
 
-3) Експерименти міждоменного трансферу технологій (**CTTE** Cross-domain Technology Transfer Experiments ), націлені на більш складні міждисциплінарні трансфери та виробництво нових CLEC CPS та технологій IoT на більш широких ринках.
+3) Експерименти міждоменного передачі технологій (**CTTE** Cross-domain Technology Transfer Experiments ), націлені на більш складні міждисциплінарні трансфери та виробництво нових CLEC CPS та технологій IoT на більш широких ринках.
 
 Цільові області застосування (targeted application areas) – це домени, які не належним чином представлені в поточних проектах Smart Anything Everywhere (**SAE**), і включають оцифроване середовище (digitized environment), оцифроване сільське господарство (digitized agriculture), оцифроване будь-що(digitized anything) та оцифрований транспорт(digitized transport).
 
@@ -66,8 +68,6 @@ SMART4ALL зосереджується на CLEC, тобто обчислюва�
 | ●  Green transport  ●   Smart mobility  ●   Shared mobility  ●   Robotics  ●  New platforms for efficient supply- demand matchmaking  ●  Automotive electronics  ●  Autonomous vehicles  ●  Connected vehicles  ●  Streamlining  transport using big data  ●  Aeronautics and space applications  ●  Transport and Logistics  ●  City Transport Mapping | ●  Smartbuilding  •   Smarthome  •   Critical infrastructure  monitoring  •  Smart hospitals  ●  Water pollution monitoring  ●   Smartgrids  •   Energy management  ●  Environment monitoring  ●   Bio-diversity  •   Wild/migratory animals monitoring  ●   Smart industry  ●  Data processing &  data visualization | ●  Smart farming  ●   AI inspired agriculture  ●  Information based site specific applications  ●  Demand driven, sustainable  agriculture  ●  Mobile plant, soil and environment sensors  ●  Sensor networks – EU wide – cross-border  ●  Field robotics and automation systems  ●  UAV based agriculture  and plant monitoring  ●  Selective plant protection  ●  Closed nutrient cycles  ●  Agricultural  decision support systems  ●  Zero-energy food systems  ●  Circular economy  ●  Water, Energy and Food (WEF)  efficiency  ●  Revalorisation of agricultural waste | ●  Human-machine  Interaction  ●   Digital Education  ●   Industrial Automation  ●   Machine Learning  ●   Market Intelligence  ●  Medical and Health Applications  ●  Active &  Healthy Ageing  ●  Support for disabled persons  ●   Cybersecurity  ●  Data Mining and Big Data  ●   Personal security  ●  Additive Manufacturing (3D printing)  ●  Augmented and Virtual Reality  ●  Audio/Video Processing  ●  Location-based  Technologies  ●  Web and Mobile Applications  ●  Wireless Sensor Networks  ●   Disaster management  ●   Digital heritage  ●   Telemedicine  ●  Rehabilitation,  wellness, fitness  ●  E-commerce |
 
 # 2  Що пропонує CTTE?
-
-The **Cross-Domain Technology Transfer Experiments** (CTTE) funding instrument, focusing on one of the four defined verticals (Digitized Transport, Digitized Agriculture, Digitized Environment and Digitized Anything), will give the opportunity to form synergies, accelerate product orient projects and offer guidance towards successful commercialization.
 
 Інструмент фінансування **Міждоменні експерименти з трансферу технологій** (CTTE, Cross-Domain Technology Transfer Experiments) зосереджений на одній із чотирьох означених вертикалей (оцифрований транспорт, оцифроване сільське господарство, оцифроване навколишнє середовище та оцифроване будь-що), дасть можливість сформувати синергію, прискорити орієнтацію на продукт проектів і пропонує вказівки щодо успішної комерціалізації.
 
@@ -131,7 +131,7 @@ The **Cross-Domain Technology Transfer Experiments** (CTTE) funding instrument, 
 
 *Таблиця 2 Склад консорціуму*
 
-| Склад консорціуму | Організація 1: Постчальний технологій/Інтегратор ПЗ          | Організація 2: Отримувач технології         | Організація 3: Виробник                     |
+| Склад консорціуму | Організація 1: Постачальник технологій/Інтегратор ПЗ         | Організація 2: Отримувач технології         | Організація 3: Виробник                     |
 | ----------------- | ------------------------------------------------------------ | ------------------------------------------- | ------------------------------------------- |
 | Тип організації   | **Університети та інші академічні установи** або Промислові **МСП та трохи більші компанії** | Промислові **МСП та трохи більші компанії** | Промислові **МСП та трохи більші компанії** |
 

@@ -1,3 +1,5 @@
+[На головну](../README.md)
+
 # SMART4ALL
 
 ![img](media/clip_image002.jpg)
