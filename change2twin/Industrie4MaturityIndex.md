@@ -1,0 +1,1 @@
+https://en.acatech.de/publication/industrie-4-0-maturity-index-update-2020/
