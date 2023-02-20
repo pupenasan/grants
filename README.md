@@ -24,7 +24,7 @@
 
 Якщо Вас цікавлять плинні гранти, якими я займаюся, то останній ось тут:
 
-- [change2twin](smart4all/README.md)
+- [change2twin](change2twin/README.md)
 
 ## Платформи
 

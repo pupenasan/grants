@@ -4,8 +4,6 @@ https://www.change2twin.eu/open-calls/deployment-voucher/
 
 Поточний відкритий конкурс завершується **16 квітня 2023 року**. Подайте заявку на фінансування [тут](https://change2twin-dv2-opencall.fundingbox.com/)!
 
-We are looking for [manufacturing SMEs and midcaps](https://www.change2twin.eu/sme/) (i.e. companies with up to 3.000 employees) that want to improve their  competitiveness by implementing Digital Twinning Technology. Our support programme, encapsulating funding & technical mentorship, will help  you in overcoming that challenge by developing and implementing digital  twin technology.
-
 Ми шукаємо [виробничі підприємства малого та середнього бізнесу та середньої капіталізації](https://www.change2twin.eu/sme/) (тобто компанії з чисельністю до 3000 співробітників), які хочуть підвищити свою конкурентоспроможність шляхом впровадження технології Digital Twinning. Наша програма підтримки, що включає фінансування та технічне наставництво, допоможе вам подолати цю проблему шляхом розробки та впровадження технології цифрових близнюків.
 
 До **16 обраних заявників** отримають **Ваучер на розгортання на суму до 90 000 євро** для розгортання цифрового двійника у своєму виробничому бізнесі.
