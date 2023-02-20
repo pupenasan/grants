@@ -1,14 +1,16 @@
 # ЦИФРОВИЙ ДВІЙНИК В РОЗУМНІЙ ПРОМИСЛОВОСТІ
 
- Smart Industry (SI) stands for three main transitions:
+https://www.change2twin.eu/wp-content/uploads/2021/04/Change2Twin_Position-Paper_Overcoming-9-Digital-Twin-Barriers-for-manufacturing-SMEs-.pdf
 
-1) Radical digitisation
+**Smart Industry (SI)** означає три основні переходи:
 
-2) Connecting products, machines, and people
+1) Радикальне оцифровування (digitisation)
 
-3) Use of new production technology
+2) Поєднання продуктів, машин і людей
 
-The Dutch SI program, for example, has eight focus areas surrounding these transitions, namely Smart Products, Servitisation, Digital Factory, Connected Factories, Sustainable Factory, Smart Working, Advanced Manufacturing, and Flexible Manufacturing.
+3) Використання нової технології виробництва
+
+Наприклад, нідерландська програма **SI** має вісім основних напрямків, пов’язаних із цими переходами, а саме «розумні продукти (Smart Products)», «сервітизація (Servitisation)», «цифрова фабрика (Digital Factory)», «підключені фабрики (Connected Factories)», «стабільна фабрика ( Sustainable Factory)», «розумна робота (Smart Working)», передове виробництво (Advanced Manufacturing) та гнучке виробництво (Flexible Manufacturing).
 
  ![image-20220812102108698](media/image-20220812102108698.png)
 
@@ -16,7 +18,7 @@ The Dutch SI program, for example, has eight focus areas surrounding these trans
 
 This SI initiative involves a major transition in a very diverse landscape. Most companies are still in the process of addressing the challenges relating to connectivity, while the end-goal is to engineer, operate and maintain an adaptive autonomous, and in some cases, a self-aware solution. These qualities are represented by Stages 2 through 6 of the stages in the *Industry4.0* development path. Digitisation happens across all 6 stages, while the Digital Twin, an advanced form of Digitisation, happens when we start to address the challenges in Stages 4 through 6.
 
-Ця ініціатива SI передбачає значний перехід у дуже різноманітний ландшафт. Більшість компаній все ще перебувають у процесі вирішення проблем, пов’язаних із підключенням, тоді як кінцева мета полягає в розробці, експлуатації та підтримці адаптивного автономного, а в деяких випадках самосвідомого рішення. Ці якості представлені етапами від 2 до 6 етапів шляху розвитку *Industry4.0*. Оцифровування відбувається на всіх 6 етапах, тоді як Digital Twin, вдосконалена форма оцифровки, відбувається, коли ми починаємо вирішувати завдання на етапах 4–6.
+Ця ініціатива SI передбачає значний перехід у дуже різноманітний ландшафт. Більшість компаній все ще перебувають у процесі вирішення проблем, пов’язаних із підключенням, тоді як кінцева мета полягає в розробці, експлуатації та підтримці адаптивного автономного, а в деяких випадках самосвідомого рішення. Ці якості представлені етапами від 2 до 6 етапів шляху розвитку *Industry4.0*. Оцифровування відбувається на всіх 6 етапах, тоді як Digital Twin і вдосконалена форма оцифровки (Digitisation), відбувається, коли ми починаємо вирішувати завдання на етапах 4–6.
 
 ![image-20220812102127869](media/image-20220812102127869.png)
 

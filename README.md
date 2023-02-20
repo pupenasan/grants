@@ -24,16 +24,11 @@
 
 Якщо Вас цікавлять плинні гранти, якими я займаюся, то останній ось тут:
 
-- [Гранти SMART4ALL (CTTE)](smart4all/README.md) подача заявки до до 17 січня 2023 р 
-- https://matchmaking.appau.org.ua/fundraising-grants/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%B0-usaid-%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D0%B5%D0%BD%D1%82%D0%BE%D1%81%D0%BF%D1%80%D0%BE%D0%BC%D0%BE%D0%B6%D0%BD%D0%B0-%D0%B5%D0%BA%D0%BE%D0%BD/
-- https://matchmaking.appau.org.ua/fundraising-grants/%d0%bf%d1%80%d0%be%d0%b3%d1%80%d0%b0%d0%bc%d0%b0-%d0%b3%d1%80%d0%b0%d0%bd%d1%82%d0%be%d0%b2%d0%be%d1%97-%d0%bf%d1%96%d0%b4%d1%82%d1%80%d0%b8%d0%bc%d0%ba%d0%b8-%d0%bf%d1%80%d0%be%d1%94%d0%ba%d1%82/
-- https://matchmaking.appau.org.ua/fundraising-grants/%d0%bd%d0%b0%d1%83%d0%ba%d0%b0-%d0%b7%d0%b0%d1%80%d0%b0%d0%b4%d0%b8-%d0%bc%d0%b8%d1%80%d1%83-%d1%82%d0%b0-%d0%b1%d0%b5%d0%b7%d0%bf%d0%b5%d0%ba%d0%b8-nato-science-for-peace-and-security/
-- https://matchmaking.appau.org.ua/fundraising-grants/celtic-next/
-- https://matchmaking.appau.org.ua/fundraising-grants/%D1%80%D0%BE%D0%B7%D1%80%D0%BE%D0%B1%D0%BA%D0%B0-%D0%BF%D0%BE%D1%81%D0%BB%D1%83%D0%B3-%D0%B0%D0%B1%D0%BE-%D0%B4%D0%BE%D0%B4%D0%B0%D1%82%D0%BA%D1%96%D0%B2-%D0%BD%D0%B0-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2/
+- [change2twin](smart4all/README.md)
 
 ## Платформи
 
-Рекомендую Вам зареєструватися на цій платформі, щоб бути в курсі діяльності, яка відбувається в тій спільноті в межах яких йде пропозиція по грантам.
+Рекомендую Вам зареєструватися на цій платформі, щоб бути в курсі діяльності, яка відбувається в тій спільноті в межах яких йде пропозиція по грантам. Також, реєстрація на цій платформі дасть Вам можливість проходити курси на інших партнерських платформах.  
 
 - https://spaces.fundingbox.com 
 
