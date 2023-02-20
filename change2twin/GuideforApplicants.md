@@ -150,136 +150,140 @@ Change2Twin застосовує [індекс зрілості Acatech Industri
 
 На цьому етапі кожен проект буде оцінено 2 зовнішніми незалежними оцінювачами зі сфери цифрових технологій. Ваш проект буде оцінено за такими критеріями:
 
-(1) **EXCELLENCE** оцінить:
+(1) оцінимо **EXCELLENCE (ВІДМІННІСТЬ)** :
 
-**Ambition.** Applicants should explain why they are applying to this open call. Why do they want to implement a digital twin and how does it connect to their business and its KPIs. This information will be used to evaluate your project’s alignment with Change2Twin’s goals.
+**Амбіційність.** Кандидати повинні пояснити, чому вони подають заявку на цей відкритий конкурс. Чому вони хочуть запровадити цифрового двійника та як він пов’язаний із їхнім бізнесом та його KPI. Ця інформація буде використана для оцінки відповідності вашого проекту цілям Change2Twin.
 
-Applicants should answer the following questions:
+Кандидати повинні відповісти на наступні запитання:
 
-\-   What KPIs are important for your future business operations?
+- Які KPI важливі для вашої майбутньої діяльності?
 
-\-    Which purpose for digital twinning do you think offers most advantages? -   What part of your company has the greatest potential for improvement?
+- Яка мета створення цифрового двійника, на вашу думку, дає найбільші переваги? 
+- Яка частина вашої компанії має найбільший потенціал для вдосконалення?
 
-**Innovation.** The applicants should provide information about the current production process(es) that they want to improve. In addition, they will be asked to perform a self-assessment of their current level of digitization following the definitions provided in the [FAQs. ](https://s3.amazonaws.com/fundingbox-sites/gear%2F1671719031316-CHANGE2TWIN_FAQ_Deployment+voucher_20221117_FINAL.pdf)Other questions to address in this section are:
+**Інноваційність.** Заявники повинні надати інформацію про поточні виробничі процеси, які вони хочуть покращити. Крім того, їм буде запропоновано виконати самооцінку свого поточного рівня оцифрування відповідно до означень, наведених у [FAQs. ](faq.md)У цьому розділі можна знайти й інші запитання:
 
-1. Which systems or services need to become smart and why?
-2. Do you aim at autonomous behaviour or at supporting human operators or users?
+1. Які системи чи послуги мають стати розумними і чому?
+2. Чи прагнете ви до автономної поведінки чи підтримки людей-операторів або користувачів?
 
-**Soundness of the approach** and credibility of the proposed methodology. The project approach shall take into account the European dimension of Change2Twin. In a win-win setting, the project shall serve the needs of the applicant, and it shall contribute to solutions that are reusable by manufacturing companies in Europe. EU Horizon calls identify standards as important means to support reusability. Projects are, therefore, strongly encouraged to use and evaluate digital twin related standards in their solutions.
+**Обґрунтованість підходу** та надійність запропонованої методології. Проектний підхід має враховувати європейський вимір Change2Twin. У взаємовигідній ситуації проект має задовольнити потреби заявника та сприяти розробці рішень, які можна буде повторно використовувати виробниками в Європі. Конкурси EU Horizon визначають стандарти як важливий засіб підтримки повторного використання. Тому настійно рекомендується використовувати та оцінювати у своїх рішеннях стандарти цифрових двійників.
 
-(2) **IMPACT** will analyse:
+(2) аналізувтимо **IMPACT (вплив)** :
 
-**Market opportunity.** The applicants have to demonstrate a clear idea of what they want to do and whether the new/improved process has market potential, e.g., because it solves a problem for a specific target customer, gives any other significant competitive advantage or is a reusable contribution to the European manufacturing industry. You must address questions like:
+**Ринкова можливість.** Заявники повинні продемонструвати чітке уявлення про те, що вони хочуть робити, і чи має новий/удосконалений процес ринковий потенціал, наприклад, оскільки він вирішує проблему для конкретного цільового клієнта, забезпечує будь-яку іншу значну конкурентоспроможність перевага або є багаторазовим внеском у європейську промисловість. Ви повинні відповісти на такі запитання, як:
 
-\-   How can you improve your offer through digitisation?
+- Як ви можете покращити свою пропозицію за допомогою оцифрування?
 
-\-   What aspects can you improve and what aspects would your customers like to see improved? - What is the European dimension in your approach?
+- Які аспекти ви можете покращити, а які аспекти хотіли б покращити ваші клієнти? 
+- Який європейський вимір у вашому підході?
 
-**Business impact:**
+**Вплив на бізнес:**
 
-1. Which parts of your business will benefit most and why?
-2. How essential is the envisioned digital twin technology to (future) core processes or products?
+1. Які частини вашого бізнесу принесуть найбільшу користь і чому?
+2. Наскільки важлива передбачувана технологія цифрового двійника для (майбутніх) основних процесів або продуктів?
 
-3. Do you aim at an improvement of existing products or services or at new market opportunities, e.g., with the introduction of smart systems?
+3. Чи маєте ви на меті покращення існуючих продуктів чи послуг чи відкриття нових ринкових можливостей, наприклад, запровадження розумних систем?
 
-**Time-critical information use:**
+**Використання критичної інформації:**
 
-1. Where are the envisioned advantages of near real-time insights provided by envisioned digital twins?
-2. Are your business processes and people prepared to act on live data or near real-time insights? 3. How costly is any failure to act in time and who bears these costs?
+1. У чому передбачувані переваги розуміння майже в реальному часі, яке надають передбачувані цифрові двійники?
+2. Чи готові ваші бізнес-процеси та люди діяти на основі реальних даних або аналітичних даних майже в реальному часі? 
+3. Наскільки дорого обходиться будь-яке невчасне вжиття заходів і хто несе ці витрати?
 
-(3) **IMPLEMENTATION** will consider:
+(3) будемо розглядати **IMPLEMENTATION**:
 
-**Team.** The applicants have to demonstrate their management and leadership qualities, their ability to take a concept from ideas to implementation, their capacity to carry through their ideas and understand the dynamics of the market they are working on. The team should be balanced and cross-functional, with a strong background and skill base. 
+**Команда.** Кандидати повинні продемонструвати свої управлінські та лідерські якості, здатність переводити концепцію від ідеї до реалізації, здатність реалізувати свої ідеї та розуміти динаміку ринку, на якому вони працюють. Команда має бути збалансованою та багатофункціональною, мати сильний досвід і базу навичок.
 
-**Resources.** Demonstrate the quality and effectiveness of the resources assigned in order to get the objectives/deliverables proposed. The main questions to address in this section are:
+**Ресурси.** Продемонструйте якість та ефективність виділених ресурсів для досягнення запропонованих цілей/результатів. Основні питання, які потрібно розглянути в цьому розділі:
 
-● Describe the asset(s) or processes that the digital twin mirrors. *Why did you select this/these?*
+- Опишіть актив(и) або процеси, які цифрові двійники повинні відзеркалювати. *Чому ви вибрали це/ці?*
 
-● What sensorsareneededto collect the data? What are therelevantdata-sources? What is required to collect sensor/process data needed for this purpose? Describe what is already available andwhat needs to be added.
+- Які датчики потрібні для збору даних? Які існують відповідні джерела даних? Що потрібно для збору даних датчика/процесу, необхідних для цієї мети? Опишіть, що вже доступно, а що потрібно додати.
+- Яка інфраструктура потрібна, щоб забезпечити доступ до всіх даних, необхідних для цієї мети, наприклад, підключення, зберігання даних тощо. Опишіть, що вже доступно, а що потрібно додати.
+- Які продукти/послуги від постачальників рішень доповнять необхідну інфраструктуру? Будь ласка, перелічіть продукти/послуги, компанію-постачальника (якщо вже вибрано) і передбачуване використання.
+- Що потрібно для реалізації моделі Digital Twin Core? Опишіть експлуатаційні та інженерні знання, необхідні для створення цифрового двійника. Будь ласка, розмежуйте деталі, які можна зробити вдома, і те, що потрібно придбати.
+- Що потрібно для того, щоб Digital Twin відповідав цілям і залишався надійним? *Будь ласка, опишіть, як ви будете перевіряти та тестувати свого цифрового двійника, щоб забезпечити довіру.*
+- Як ви налаштуєте бізнес-процеси, які використовують інформацію цифрового двійника? Як ви будете діяти на основі інформації, наданої цифровим двійником? Як ви будете контролювати свої KPI?
 
-● What infrastructure is required to enable access to all the data needed for this purpose, e.g., connectivity, data storage, etc. Describe what is already available and what needs to be added.
-
-● What products/services from solution providers will complete the necessary infrastructure? Please list the products/services, the providing company (if already selected) and the projected use.
-
-● What is needed to realise the Digital Twin Core model? Describe the operational and engineering expertise needed to build the digital twin. Please differentiate the part that can be done in house and what needs to be purchased
-
-● What is needed to make sure the Digital Twin is fit for purpose and stays reliable? *Please describe how you will validate and test your digital twin to ensure trust.*
-
-● How will you set up business processes that use the information of the digital twin? How will you act upon the information provided by the digital twin? How will you monitor your KPIs?
-
-More information on what information is required regarding resources and budget is available in the [FAQs.](https://s3.amazonaws.com/fundingbox-sites/gear%2F1671719031316-CHANGE2TWIN_FAQ_Deployment+voucher_20221117_FINAL.pdf)
+Більше інформації про те, яка інформація потрібна щодо ресурсів і бюджету, доступна в [FAQs.](faq.md)
 
 **Transversal criteria** such as ‘Environment and low carbon economy contribution’, ‘Equal Opportunities & Gender balance’ and ‘Social Impact’ will also be considered when there is a tie among the proposals.
 
 The evaluators will score each award criterion on a scale from 0 to 5:
 
-0 = Proposal fails to address the criterion or cannot be assessed due to missing or incomplete information
+**Наскрізні критерії**, такі як «Внесок навколишнього середовища та низьковуглецевої економіки», «Рівні можливості та гендерний баланс» і «Соціальний вплив», також розглядатимуться, якщо між пропозиціями буде однакова кількість.
 
-1 = Poor – criterion is inadequately addressed or there are serious inherent weaknesses 2 = Fair – proposal broadly addresses the criterion, but there are significant weaknesses
 
-3 = Good – proposal addresses the criterion well, but a number of shortcomings are present
 
-4 = Very good – proposal addresses the criterion very well, but a small number of shortcomings are present
+Оцінювачі оцінюють кожен критерій нагородження за шкалою від 0 до 5:
 
-5 = Excellent – proposal successfully addresses all relevant aspects of the criterion. Any shortcomings are minor. 
+- 0 = Пропозиція не відповідає критерію або не може бути оцінена через відсутність або неповну інформацію
 
-The threshold for individual criteria will be 3. The overall threshold, applying to the sum of the three individual scores, will be 10.
+- 1 = Погано – критерій враховано неадекватно або є серйозні властиві недоліки 
+- 2 = Задовільно – пропозиція в цілому відповідає критерію, але є значні недоліки
+- 3 = добре – пропозиція добре відповідає критерію, але є ряд недоліків
+- 4 = Дуже добре – пропозиція дуже добре відповідає критерію, але є невелика кількість недоліків
+- 5 = Відмінно – пропозиція успішно відповідає всім відповідним аспектам критерію. Будь-які недоліки незначні.
 
-In case the scores of the evaluators differ by 3 points or more in at least 1 of the three criteria (excellence, impact, implementation), we will involve a third evaluator in the process to make sure all applicants are treated equally and fairly.
+Порогове значення для окремих критеріїв становитиме 3. Загальне порогове значення, що застосовується до суми трьох індивідуальних балів, становитиме 10.
 
-Each evaluator will produce an Individual Evaluation Report. The final score will be calculated as an average of the individual assessments provided by the evaluators.
+Якщо бали оцінювачів відрізняються на 3 бали або більше принаймні за 1 із трьох критеріїв (досконалість, вплив, реалізація), ми залучимо до процесу третього оцінювача, щоб переконатися, що до всіх заявників ставляться однаково та справедливо.
 
-In case of ties, the following criteria will be used to rank the projects, in order: 1º. Impact score.
+Кожен оцінювач складе індивідуальний звіт про оцінку. Підсумковий бал буде розраховано як середнє значення індивідуальних оцінок, наданих оцінювачами.
 
-2º. Implementation score. 3º. Excellence score.
+У разі рівних результатів, критерії будуть використовуватися для ранжування проектів у наступному порядку: 
 
-4º. Gender balance.
+1º. Оцінка впливу.
 
-5º. Date of submission: earlier submitted proposals go first. 
+2º. Оцінка реалізації.
 
-All proposals obtaining a score above the threshold, will pass to the next phase. Please note that we need time to process through all the proposals in this phase, so you probably won’t hear back for a while.
+3º. Оцінка відмінності.
 
-**EXTRA POINTS**
+4º. Гендерний баланс.
 
-For applications that are scored above the threshold, **one additional point**will be added to theoverallscore to experiments that are operating in sectors of manufacturing where **digital technologies are underexploited**. For the purpose of this open call, these sectors are:
+5º. Дата подання: першими йдуть раніше подані пропозиції.
 
-● construction;
+Усі пропозиції, які отримають бал вище порогового значення, перейдуть до наступного етапу. Будь ласка, зверніть увагу, що нам потрібен час, щоб обробити всі пропозиції на цьому етапі, тому ви, ймовірно, не отримаєте відповідь деякий час.
 
-● basic metals & fabricated metal products; ● textiles, wearing apparel, leather; and
+**Екстра бали**
 
-● beverages and food.7
+Для застосувань, які перевищують порогове значення, **один додатковий бал** буде додано до загального результату для експериментів, які проводяться в секторах виробництва, де **цифрові технології використовуються недостатньо**. Для цілей цього відкритого конкурсу ці сектори:
 
-**A second additional point** will be added to the overall score to experiments that include the use of at least one technology in the [Change2Twin Marketplace.](https://marketplace.change2twin.eu/)
+● будівництво;
 
-**GENDER BALANCE**
+● основні метали та готові металеві вироби;
 
-Beneficiaries must take all reasonable measures to promote equal opportunities between men and women in the implementation of the action. They must aim, to the extent possible, for a gender balance at all levels of personnel assigned to the action, including at supervisory and managerial level.
+● текстиль, одяг, шкіра; 
 
-7 The sectors where digital technologies are underexploited are those scoring below 10% in the digital intensity index included in the Digital Economy and Society Index (DESI) 2019[: https://ec.europa.eu/digital-single-market/en/integration-digital-technology-enterprises](https://ec.europa.eu/digital-single-market/en/integration-digital-technology-enterprises) 
+● напої та продукти харчування 
 
-### **4.3** CONSENSUS MEETING
+Сектори, у яких цифрові технології недостатньо використовуються, це ті, що мають менше 10% показників індексу цифрової інтенсивності, включеного до Індексу цифрової економіки та суспільства (DESI) 2019: https://ec.europa.eu/digital-single-market/en/integration-digital-technology-enterprises
 
-The Application Experiment (AE) Management Board, formed by the 10 core partners of Change2Twin and 2 external experts, will decide by consensus (minimum ⅔ of majority votes) the ‘List of finalists’. The discussion will be based on the ranking obtained as a result of the External Evaluation. The complete composition of the ‘AE Management Board’ is listed in the Annex 2 of this Guide for Applicants.
+**Другий додатковий бал** буде додано до загальної оцінки експериментів, які включають використання принаймні однієї технології в [Change2Twin Marketplace.](https://marketplace.change2twin.eu/)
 
-Whilst normally the highest ranked proposals will be selected for funding, the AEManagement Board might have fair reasons for objecting to a specific third party, like the alignment with Change2Twin goals and scope, the ability to achieve the highest impact possible, commercial competition, as well as the existence of significant ethical concerns or a potential conflict of interest. In this case, the choice may pass to the next-ranked proposal.
+**ГЕНДЕРНИЙ БАЛАНС**
 
-The exact number of proposals approved will be decided based on the overall **quality** of the proposals, against the available budget of the Deployment Voucher 2nd Open Call.
+Бенефіціари повинні вжити всіх розумних заходів для сприяння рівним можливостям між чоловіками та жінками під час реалізації проекту. Вони повинні прагнути, наскільки це можливо, до гендерного балансу на всіх рівнях персоналу, призначеного для виконання заходів, включно з наглядовим і управлінським рівнями.
 
-### **4.4** WHAT’S NEXT? SUB-GRANT AGREEMENT PREPARATION AND SIGNATURE
+### 4.3 КОНСЕНСУСНА ЗУСТРІЧ
 
-Before you get started with Change2Twin support programme, you need to sign the Sub-Grant Agreement with the Change2Twin Consortium.
+Керівна рада прикладного експерименту (AE, Application Experiment), сформована з 10 основних партнерів Change2Twin і 2 зовнішніх експертів, ухвалить консенсусом (мінімум ⅔ більшості голосів) «Список фіналістів». Обговорення відбуватиметься на основі рейтингу, отриманого за результатами незалежного оцінювання. Повний склад «Ради управління AE» наведено в Додатку 2 цього Посібника для заявників.
 
-Prior to signing the Sub-Grant Agreement, you should provide documents regarding your formal status and eligibility. The Change2Twin Consortium will verify them, to make sure you are eligible (for the details please check our [Frequently Asked Questions ](https://s3.amazonaws.com/fundingbox-sites/gear%2F1671719031316-CHANGE2TWIN_FAQ_Deployment+voucher_20221117_FINAL.pdf)Document).
+Хоча зазвичай для фінансування відбираються пропозиції з найвищим рейтингом, Рада управління AEM може мати вагомі причини заперечити конкретній третій стороні, наприклад із-за невідповідності цілям і масштабам Change2Twin, здатності досягти найвищого можливого впливу, комерційної конкуренції, а також із-за наявність значних етичних проблем або потенційного конфлікту інтересів. У цьому випадку вибір може перейти до наступної за рейтингом пропозиції.
 
-Be extremely vigilant with respect to:
+Точну кількість схвалених пропозицій буде визначено на основі загальної **якості** пропозицій у порівнянні з наявним бюджетом 2-го відкритого конкурсу на ваучер на розгортання.
 
-1. The nature of the documents we request.
+### 4.4 ЩО ДАЛІ? ПІДГОТОВКА ТА ПІДПИС ДОГОВОРУ СУБГРАНТУ 
 
-If the documents you provide us with do not prove your eligibility, your proposal will no longer be considered for the support programme.
+Перш ніж розпочати роботу з програмою підтримки Change2Twin, вам потрібно підписати субгрантову угоду з консорціумом Change2Twin.
 
-2. The deadlines that we will give you to hand us these documents.
+Перед підписанням субгрантової угоди вам слід надати документи щодо вашого офіційного статусу та відповідності вимогам. Консорціум Change2Twin перевірить їх, щоб переконатися, що ви відповідаєте вимогам (щоб дізнатися більше, перегляньте наші [Часті запитання](faq.md) документ).
 
-If you do not deliver the requested documents on time, without a clear and reasonable justification, we will have to exclude you from the further formal assessment. Another applicant from the Reserve list will then replace you.
+Будьте гранично пильними щодо:
+
+1. Характеру документів, які ми запитуємо. Якщо документи, які ви нам надаєте, не підтверджують вашу відповідність вимогам, ваша пропозиція більше не розглядатиметься для програми підтримки.
+
+2. Терміни, які ми надамо вам, щоб передати нам ці документи. Якщо ви не надасте запитані документи вчасно без чіткого та розумного обґрунтування, ми будемо змушені виключити вас із подальшої формальної оцінки. Потім вас замінить інший заявник зі списку Резерву.
 
 ## 5 НАША ПРОГРАМА ПІДТРИМКИ ТА СПОСОБИ ОПЛАТИ
 
@@ -323,73 +327,77 @@ If you do not deliver the requested documents on time, without a clear and reaso
 
 Щоб отримати докладніший графік платежів, перегляньте розділ [Часті запитання](faq.md). 
 
-## 6 CONTACT US
+## 6 ЗВ'ЯЖІТЬСЯ З НАМИ
 
-**How can we help you?**
+**Як ми можемо вам допомогти?**
 
-If you have extra questions regarding our open call process you can post your questions at our [Helpdesk](https://spaces.fundingbox.com/spaces/i4ms-change2twin-open-call-help-desk) [space ](https://spaces.fundingbox.com/spaces/i4ms-change2twin-open-call-help-desk)or you can send us a message to [opencalls@change2twin.eu](mailto:opencalls@change2twin.eu)
+Якщо у вас є додаткові запитання щодо нашого відкритого конкурсу, ви можете опублікувати їх у нашій [службі підтримки](https://spaces.fundingbox.com/spaces/i4ms-change2twin-open-call-help-desk) або ви можете надіслати нам повідомлення на [opencalls@change2twin.eu](mailto:opencalls@change2twin.eu)
 
-In case of any technical issues or problems, please include the following information in your message: ●    your username, telephone number and your email address,
+У разі будь-яких технічних питань або проблем, будь ласка, вкажіть у своєму повідомленні наступну інформацію:
 
-●   details of the specific problem (error messages you encountered, bugs descriptions, i.e., if a dropdown list isn’t working, etc.), and
+- ваше ім'я користувача, номер телефону та адресу електронної пошти,
 
-●   screenshots of the problem.
+- деталі конкретної проблеми (повідомлення про помилки, з якими ви зіткнулися, описи помилок, наприклад, якщо розкривний список не працює тощо), і
 
-**Complaints**
+- скріншоти проблеми.
 
-**First of all, be aware that we won’t be reviewing your complaint if: ...It is anonymous.**
+**Скарги**
 
-**...The information is incomplete.**
+**По-перше, майте на увазі, що ми не розглядатимемо вашу скаргу, якщо: **
 
-**...It is not related to the results of the evaluation of the eligibility criteria. Indeed, most of the evaluation process is run by independent experts in the given field. The project consortium does not interfere with their assessment.**
+**...вона анонімна.**
 
-If, after receiving the results of one of the evaluation phases (when foreseen), you consider that a mistake has been made, you can send us your complaint. To do so please send us your complaint in English by email to [opencalls@change2twin.eu ](mailto:opencalls@change2twin.eu)including the following information:
+**...Інформація неповна.**
 
-●   your contact details (including email address), ●    the subject of the complaint,
+**...Це не пов’язано з результатами оцінки критеріїв прийнятності. Дійсно, більша частина процесу оцінювання здійснюється незалежними експертами в даній галузі. Проектний консорціум не втручається в їх оцінку.**
 
-●   information and evidence regarding the alleged breach.
+Якщо після отримання результатів одного з етапів оцінювання (якщо це передбачено) ви вважаєте, що була допущена помилка, ви можете надіслати нам свою скаргу. Для цього надішліть нам свою скаргу англійською мовою на адресу [opencalls@change2twin.eu ](mailto:opencalls@change2twin.eu), включно з такою інформацією:
 
-You have **3 calendar days** to submit your complaint starting from the day after the communication was sent. We will review your complaint within no more than seven calendar days from its reception. If we need more time to assess your complaint, we will inform you by email about the extension.
+● ваші контактні дані (включаючи електронну адресу),
 
-We will not review anonymous complaints as well as complaints with incomplete information.
+● предмет скарги,
 
-Please take into account that the evaluation is run by experts in the digital twin technology field, and we do not interfere with their assessment, therefore we will not evaluate complaints related to the results of the evaluation other than related to the mistakes in the evaluation of the eligibility criteria.
+● інформація та докази щодо передбачуваного порушення.
 
- 
+У вас є **3 календарних дні**, щоб подати скаргу, починаючи з дня, наступного після надсилання повідомлення. Ми розглянемо вашу скаргу протягом не більше семи календарних днів з моменту її отримання. Якщо нам знадобиться більше часу для розгляду вашої скарги, ми повідомимо вас електронною поштою про продовження.
 
-## 7 LAST BUT NOT LEAST - FINAL PROVISIONS
+Ми не розглядатимемо анонімні скарги, а також скарги з неповною інформацією.
 
-Any matters not covered by this Guide will be governed by the law of Belgium and the rules related to the H2020 and EU grants.
+Будь ласка, візьміть до уваги, що оцінювання проводиться експертами в галузі технології цифрових двійників, і ми не втручаємося в їхню оцінку, тому ми не будемо оцінювати скарги, пов’язані з результатами оцінки, крім пов’язаних з помилками в оцінці критерії прийнятності. 
 
-Please take into account that we make our best effort to keep all provided data confidential; however, for the avoidance of doubt, you are solely responsible to indicate your confidential information as such.
+## 7 ОСТАННІ, АЛЕ НЕ ВАЖЛИВІШІ – ПРИКІНЦЕВІ ПОЛОЖЕННЯ
 
-Your IPR is and will remain your property.
+Будь-які питання, не охоплені цим Посібником, регулюватимуться законодавством Бельгії та правилами, пов’язаними з програмою H2020 і грантами ЄС.
 
-For the selected grantees, the Sub-Grant Agreement will include the set of obligations towards the European Commission (for example: promoting the project and giving visibility to the EU funding, maintaining confidentiality, understanding potential controls by the EC/ECA and OLAF).
+Зверніть увагу, що ми докладаємо всіх зусиль, щоб зберегти конфіденційність усіх наданих даних; однак, щоб уникнути сумнівів, ви несете повну відповідальність за вказування вашої конфіденційної інформації як такої.
 
-The Change2Twin Consortium might cancel the call at any time, change its provisions or extend it. In such a case we will inform all applicants about such change. Signature of the Sub-Grant Agreement is an initial condition to establish any obligations among applicants and any Consortium partners (with respect to the obligation of confidentiality of the application).
+Ваша інтелектуальна власність є і залишатиметься вашою власністю.
 
-Did not find what you were looking for? You may want to check our [Frequently Asked Questions Section.](https://s3.amazonaws.com/fundingbox-sites/gear%2F1671719031316-CHANGE2TWIN_FAQ_Deployment+voucher_20221117_FINAL.pdf)
+Для відібраних грантоотримувачів субгрантова угода включатиме набір зобов’язань перед Європейською комісією (наприклад: просування проекту та надання інформації про фінансування ЄС, дотримання конфіденційності, розуміння можливого контролю з боку EC/ECA та OLAF).
 
+Консорціум Change2Twin може будь-коли скасувати виклик, змінити його положення або продовжити його. У такому випадку ми повідомимо всіх заявників про таку зміну. Підписання Угоди про субгрант є початковою умовою для встановлення будь-яких зобов’язань між заявниками та будь-якими партнерами Консорціуму (щодо зобов’язань щодо конфіденційності заявки).
 
+Не знайшли те, що шукали? Ви можете переглянути наш [Розділ із поширеними запитаннями.](faq.md)
 
-## 8 EXTRA HINTS BEFORE YOU SUBMIT YOUR PROPOSAL
+## 8 ДОДАТКОВІ ПОРАДИ ПЕРЕД НАДАННЯМ ПРОПОЗИЦІЇ
 
-A proposal takes time and effort and we know it. Here are some few crucial points you should read before submitting your proposal.
+Пропозиція потребує часу та зусиль, і ми це знаємо. Ось кілька важливих моментів, які ви повинні прочитати, перш ніж подавати свою пропозицію.
 
-● Are you an SME or mid-cap from a manufacturing sector?
+- Ви представник малого та середнього бізнесу чи підприємства середньої капіталізації у виробничому секторі?
 
-● Is your project in line with what Change2Twin is looking for? You are not sure? You can consult [this](#_page_36_0) [section ](#_page_36_0)and this [one.](#_page_39_0)
+- Чи відповідає ваш проект тим, що шукає Change2Twin? Ви не впевнені? Ви можете переглянути 3.1 і 3.2
 
-● Did you present your project in a way that will convince evaluators? Not sure if you did? Go back to [this section.](#_page_39_0)
+- Чи представили ви свій проект таким чином, щоб переконати оцінювачів? Не впевнені? Поверніться до 3.2
 
-● Is your project fulfilling all eligibility requirements described in the Guide? Check agai[n this section.](#_page_36_0) ● Are you sure you are able to cope with our process of the Sub-Grant Agreement signature and
+- Чи відповідає ваш проект усім вимогам прийнятності, описаним у посібнику? Перевірте ще раз 3.1
 
-payment arrangements for selected proposals? You may want to go over [this section.](#_page_51_0) ● Did you check our FAQ? You didn’t? Check it [here.](https://s3.amazonaws.com/fundingbox-sites/gear%2F1671719031316-CHANGE2TWIN_FAQ_Deployment+voucher_20221117_FINAL.pdf)
+- Ви впевнені, що в змозі впоратися з нашим процесом підписання субгрантової угоди та організації оплати для вибраних пропозицій? Ви можете переглянути 4.4.
 
-● Do you need extra help? [Contact us](https://www.change2twin.eu/contact-us/)[.](https://www.change2twin.eu/contact-us/)
+- Чи перевірили ви наші поширені запитання? Ви не зробили? Перевірте [тут.](faq.md)
 
-And as a bonus: You can read ou[r R.E.C.I.P.E. for an outstanding European Funding Opportunity application](https://spaces.fundingbox.com/spaces/fundingbox-spaces-startup-sme-lounge/60996c8783c3064099079fe4) for additional advice. Good luck
+-  Вам потрібна додаткова допомога? [Зв’яжіться з нами](https://www.change2twin.eu/contact-us/)[.](https://www.change2twin.eu/contact-us/)
+
+І як бонус: ви можете прочитати наш [r R.E.C.I.P.E. для видатної заявки на європейську можливість фінансування](https://spaces.fundingbox.com/spaces/fundingbox-spaces-startup-sme-lounge/60996c8783c3064099079fe4) для отримання додаткових порад. Удачі
 
 ## ANNEX 1: GLOSSARY
 
