@@ -49,6 +49,6 @@
 
 Для зворотного зв'язку:
 
-- [Facebook](https://www.facebook.com/fieldbusbook/posts/pfbid033iAyMfywNHC1twMfEJto2kG7obrydYzYifKjXZ3L2ygUiUE36dPVwziJBVD4h6Vdl)
-- [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6979904801249603584/)
+- [Facebook](https://www.facebook.com/fieldbusbook/posts/pfbid022Y7JN42GNTZFh69fNaHPSWACnHYPhAfhKm9YrPpFywNo5ppMXPaRqQ6gk734CS7Jl)
+- [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7033470045070462976/)
 - [GitHub](https://github.com/pupenasan/grants/issues/3)
