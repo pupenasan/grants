@@ -6,6 +6,8 @@ Enabling technologies for digital twins in manufacturing, Oliver Barrowclough
 
 Оригінал статті за [посиланням](https://www.change2twin.eu/wp-content/uploads/2022/09/DigitalTwinEnablingTechnology_position-paper_OliverBarrowclough-1.pdf)
 
+[Enabling technology catalog](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwifxN3Gntv9AhURx4sKHdokDm8QFnoECBoQAQ&url=https%3A%2F%2Fec.europa.eu%2Fresearch%2Fparticipants%2Fdocuments%2FdownloadPublic%3FdocumentIds%3D080166e5ddabb8bf%26appId%3DPPGMS&usg=AOvVaw2m-hOyaG-XAKtIK5ZpR9jt)
+
 ## 1. Вступ
 
 **Цифрові дійники** за своєю природою мають широкий спектр і, отже, охоплюють широкий діапазон технологій, від **традиційних комп’ютерних технологій (CAx)** до **передового обчислювального обладнання**, а також більше до **технологій що недавно зявилися** такі як (промисловий) Інтернет речей і глибоке навчання. Для того, щоб МСП могли отримати максимальну віддачу від впровадження своїх цифрових близнюків, важливо, щоб ці технології були доступні та представлені їм у зрозумілий і відповідний для їхнього бізнесу спосіб.
