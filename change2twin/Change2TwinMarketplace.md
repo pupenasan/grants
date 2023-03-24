@@ -17,3 +17,31 @@
 **Ви можете отримати доступ до [Marketplace](http://marketplace.change2twin.eu/) тут: https://marketplace.change2twin.eu.**
 
 Ви [постачальник технологій](https://www.change2twin.eu/technology-provider/) і хочете, щоб ваше рішення було розміщено на [Change2Twin Marketplace](https://marketplace.change2twin.eu/)? Зв’яжіться з нами за адресою [marketplace@change2twin.eu](mailto:marketplace@change2twin.eu)[.](mailto: hello@change2twin.eu)
+
+Плейліст з демонстрацією Marketplace https://youtube.com/playlist?list=PL3dgAxHXoOIVOkiBVMA93Qhi9aBSS_slD
+
+## Cordis SUITE, Low-Code platform for control Software
+
+https://marketplace.change2twin.eu/items/MI12.1/
+
+https://www.cordis-suite.com/
+
+https://youtu.be/dLdaT33AZCE
+
+
+
+## Open standard based data exchange
+
+https://marketplace.change2twin.eu/items/MI03.2/
+
+https://youtu.be/ye_H8SciDMw
+
+https://jotneit.com/
+
+
+
+## Smart Connected Factory
+
+https://marketplace.change2twin.eu/items/MI05.2/
+
+https://youtu.be/oAvUU13uqbE
