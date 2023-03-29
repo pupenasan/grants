@@ -1,4 +1,4 @@
-[На головну](../README.md)
+[На головну по грантам](../README.md)
 
 # Проект change2twin
 
@@ -77,7 +77,7 @@
 **Підготовка**. На першому етапі МСП варто переглянути в текстовому вигляді або подивитися вебінари:
 
 - [Digital Twins в проекті Change2Twin  - загальне розуміння](DigitalTwinsVebinar.md) 
-- [Сім кроків до цифрового двійника](SevenStepsToDigitalTwin.md)
+- [Сім кроків до цифрового двійника скорочена вресія](SevenStepsToDigitalTwin_brief.md)
 - [Digital Twin demonstration: Jotne & Unit040](https://youtu.be/9_ejQPqvBYA) 
 - [Технології для забезпечення цифрових двійників на виробництві](DigitalTwinEnablingTechnology_positionpaper.md)
 
