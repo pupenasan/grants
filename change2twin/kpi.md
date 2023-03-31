@@ -1,5 +1,7 @@
 # Ключові показники ефективності (KPI)
 
+Дані KPI звяті з [Compass-Tool-v1](https://fundingbox-spaces.s3-eu-central-1.amazonaws.com/fmartineau/pax4zJYQix/DAY1---Change2Twin-DIHs-Webinar---Compass-Tool-v1_0---non-plus.xlsx) 
+
 ## Фінансові
 
 Financial

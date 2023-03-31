@@ -110,3 +110,60 @@
 - [Facebook](https://www.facebook.com/fieldbusbook/posts/pfbid022Y7JN42GNTZFh69fNaHPSWACnHYPhAfhKm9YrPpFywNo5ppMXPaRqQ6gk734CS7Jl)
 - [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7033470045070462976/)
 - [GitHub](https://github.com/pupenasan/grants/issues/3)
+
+
+
+## Результати роботи Change2twin
+
+[Deliverables](https://www.change2twin.eu/about/deliverables/)
+
+У цьому розділі ви знайдете публічні результати проекту:
+
+**Work Package 1: Enabling technologies for digital twins**
+
+- [D1.1-Digital-Twin-Barriers](https://www.change2twin.eu/wp-content/uploads/2021/11/D1.1-Digital-Twin-Barriers.pdf)   [Завантажити оригінал](https://www.change2twin.eu/wp-content/uploads/2021/11/D1.1-Digital-Twin-Barriers.pdf)
+
+- [D1.2-First-report-on-standards-relevant-for-digital-twins](https://www.change2twin.eu/wp-content/uploads/2021/11/D1.2-First-report-on-standards-relevant-for-digital-twins.pdf)   [Завантажити оригінал](https://www.change2twin.eu/wp-content/uploads/2021/11/D1.2-First-report-on-standards-relevant-for-digital-twins.pdf)
+
+- [D1.3-Digital-Twin-Enabling-Technology-Catalogue](https://www.change2twin.eu/wp-content/uploads/2021/11/D1.3-Digital-Twin-Enabling-Technology-Catalogue.pdf)   [Завантажити оригінал](https://www.change2twin.eu/wp-content/uploads/2021/11/D1.3-Digital-Twin-Enabling-Technology-Catalogue.pdf)
+
+**Work Package 2: Marketplace**
+
+- [D2.1-Initial-operating-marketplace](https://www.change2twin.eu/wp-content/uploads/2021/11/D2.1-Initial-operating-marketplace.pdf)   [Завантажити оригінал](https://www.change2twin.eu/wp-content/uploads/2021/11/D2.1-Initial-operating-marketplace.pdf)
+
+- [D2.2-Marketplace-Design-and-Methodologies](https://www.change2twin.eu/wp-content/uploads/2021/11/D2.2-Marketplace-Design-and-Methodologies.pdf)   [Завантажити оригінал](https://www.change2twin.eu/wp-content/uploads/2021/11/D2.2-Marketplace-Design-and-Methodologies.pdf)
+- [D2.3-First-Report-on-Operating-Marketplace](https://www.change2twin.eu/wp-content/uploads/2022/05/D2.3-First-Report-on-Operating-Marketplace.pdf)   [Завантажити оригінал](https://www.change2twin.eu/wp-content/uploads/2022/05/D2.3-First-Report-on-Operating-Marketplace.pdf)
+
+**Work Package 3: Pilot experiments**
+
+- [D3.1-Definition-of-assessment-steps-and-guidelines](https://www.change2twin.eu/wp-content/uploads/2021/11/D3.1-Definition-of-assessment-steps-and-guidelines.pdf)   [Завантажити оригінал](https://www.change2twin.eu/wp-content/uploads/2021/11/D3.1-Definition-of-assessment-steps-and-guidelines.pdf)
+
+- [D3.2_Interim-Report-Pilot-Experiments](https://www.change2twin.eu/wp-content/uploads/2022/05/D3.2_Interim-Report-Pilot-Experiments.pdf)   [Завантажити оригінал](https://www.change2twin.eu/wp-content/uploads/2022/05/D3.2_Interim-Report-Pilot-Experiments.pdf)
+
+- [D3.3_Final-Report-Pilot-Experiments](https://www.change2twin.eu/wp-content/uploads/2022/05/D3.3_Final-Report-Pilot-Experiments.pdf)   [Завантажити оригінал](https://www.change2twin.eu/wp-content/uploads/2022/05/D3.3_Final-Report-Pilot-Experiments.pdf)
+
+**Work Package 4: Financial support to third parties**
+
+- [D4.1-Call-Announcement-and-Guide-for-Applicants-Phase-1](https://www.change2twin.eu/wp-content/uploads/2021/11/D4.1-Call-Announcement-and-Guide-for-Applicants-Phase-1.pdf)   [Завантажити оригінал](https://www.change2twin.eu/wp-content/uploads/2021/11/D4.1-Call-Announcement-and-Guide-for-Applicants-Phase-1.pdf)
+
+- [D4.2-Call-Announcement-and-Guide-for-Applicants-Phase-2](https://www.change2twin.eu/wp-content/uploads/2021/11/D4.2-Call-Announcement-and-Guide-for-Applicants-Phase-2.pdf)   [Завантажити оригінал](https://www.change2twin.eu/wp-content/uploads/2021/11/D4.2-Call-Announcement-and-Guide-for-Applicants-Phase-2.pdf)
+
+**Work Package 5: Application experiments**
+
+ще немає публічних результатів
+
+**Work Package 6: Sustainability**
+
+- [D6.3-Sustainability-report-Year-1](https://www.change2twin.eu/wp-content/uploads/2021/11/D6.3-Sustainability-report-Year-1.pdf)   [Завантажити оригінал](https://www.change2twin.eu/wp-content/uploads/2021/11/D6.3-Sustainability-report-Year-1.pdf)
+
+**Work Package 7: Communication, dissemination and community building**
+
+- [D7.1-Change2Twin-Community-Platform](https://www.change2twin.eu/wp-content/uploads/2021/11/D7.1-Change2Twin-Community-Platform.pdf)   [Завантажити оригінал](https://www.change2twin.eu/wp-content/uploads/2021/11/D7.1-Change2Twin-Community-Platform.pdf)
+
+- [D7.2-Community-Strategy](https://www.change2twin.eu/wp-content/uploads/2021/11/D7.2-Community-Strategy.pdf)   [Завантажити оригінал](https://www.change2twin.eu/wp-content/uploads/2021/11/D7.2-Community-Strategy.pdf)
+
+- [D7.3.-Content-creation-dissemination-and-community-activities-Year-1](https://www.change2twin.eu/wp-content/uploads/2021/11/D7.3.-Content-creation-dissemination-and-community-activities-Year-1.pdf)   [Завантажити оригінал](https://www.change2twin.eu/wp-content/uploads/2021/11/D7.3.-Content-creation-dissemination-and-community-activities-Year-1.pdf)
+
+**Work Package 8: Management**
+
+- [D8.10-Data-Managment-Plan](https://www.change2twin.eu/wp-content/uploads/2021/11/D8.10-Data-Managment-Plan.pdf)   [Завантажити оригінал](https://www.change2twin.eu/wp-content/uploads/2021/11/D8.10-Data-Managment-Plan.pdf)
